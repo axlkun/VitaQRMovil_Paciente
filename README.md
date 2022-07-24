@@ -1,3 +1,4 @@
 # VitaQRMovil_Paciente
-Apliación móvil para el sistema VitaQR dirigida al paciente
+Mobile app for the patient's VitaQR system where they can update their QR codes, create, update and delate their personal contacts and view his medical record.
+Deveolped in Java
 
